@@ -8,8 +8,16 @@ LOVE Protocol is a decentralized impact measurement system that detects relation
 
 ## Documentation
 
+### Core Protocol
+
 - **[White Paper v1.0](./LOVE_PROTOCOL_WHITEPAPER_V1.md)**: Complete protocol specification, architecture, and economic model
 - **[Implementation Plan](./IMPLEMENTATION_PLAN.md)**: Local-first experimental substrate plan with mutations, phases, and success metrics
+
+### Specifications
+
+- **[YES Pen Spec](./specs/YES_PEN_SPEC.md)**: Moment-Key Cryptography for multi-person presence-based encryption
+- **[LOVE Note Spec](./specs/LOVE_NOTE_SPEC.md)**: Human-readable receipt format for validated interventions
+- **[Specs Overview](./specs/README.md)**: Complete specifications directory guide
 
 ## Key Concepts
 
